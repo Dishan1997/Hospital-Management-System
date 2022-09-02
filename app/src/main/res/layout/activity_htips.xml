@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     android:background="@drawable/htips"
+    tools:context=".Htips">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Health Tips"
+                android:textStyle="bold"
+                android:textColor="#7da107"
+                android:textAlignment="center"
+                android:layout_margin="10dp"
+                android:textSize="30sp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:text=" 1. Don't Drink Sugar Calories. \n\n 2. Avoid Processed Junk Food (Eat Real Food Instead).
+\n 3. Eat Fatty Fish.\n\n 4. Get Enough Sleep.\n\n 5. Drink Some Water, Especially Before Meals.
+\n 6. Avoid Bright Lights Before Sleep.\n\n 7. Take Vitamin D3 If You Don't Get Much Sun
+\n 8. Do Some Cardio, or Just Walk More.\n\n 9. Don't Eat a Lot of Refined Carbohydrates.
+\n 10.Eat Eggs, and Don't Throw Away The Yolk.\n\n 11.Minimize Your Intake of Added Sugars.
+\n 12.Eat Vegetables and Fruits.\n\n 13.Do your weights workout first.\n
+14.Load up on vitamin C.\n\n 15.Eat your stress away.\n\n 16.Mindful living.
+\n 17.Get rid of your magnifying mirror.\n\n 18.Walk to work.\n\n 19.Wash your hands before you cook.
+\n 20.Make milk one of your daily drinks."
+                android:textColor="#7da107"
+                android:textSize="17sp"
+                android:textStyle="bold"
+
+
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

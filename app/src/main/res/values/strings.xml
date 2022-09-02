@@ -1,0 +1,38 @@
+<resources>
+
+
+    <string name="app_name">Care_Zone</string>
+
+
+    <string-array name="category_remedies">
+
+        <item> 1. One natural treatment for acidity is chewing a few Basil (tulsi) leaves after a meal. This not just works as an antacid as it helps the body absorb food but also prevents reflux and the formation of ulcers.    </item>
+        <item> 2. Headache caused by summer heat is cured by consuming watermelon juice.  Just one glass a day works wonders…    </item>
+        <item> 3. Eating an Apple on an empty stomach in the morning relieves one of migraine pain. This must be done for a few mornings.  I have been a migraine patient for past 10 years and this one worked most for me.    </item>
+        <item> 4. Mix 2 teaspoons of honey with equal quantity of ginger juice. The concoction helps to expectorate mucus, providing relief for the common cold, coughs and sore throat.    </item>
+        <item> 5. A simple remedy for Anemia or iron deficiency –  Pound 3-4 soft dates with milk and add a little ghee in it.  Eating this mixture will help to prevent Anemia.    </item>
+        <item> 6. A drop garlic juice into your ear helps to relieve the pain of an ear infection.   </item>
+        <item> 7. Grated cucumber applied over the face, eyes and neck for fifteen minutes is very beneficial for acne and blackheads.    </item>
+        <item> 8. Caffeine increases adrenaline in the body, which can cause stress, so avoid at all costs if you’re feeling tense.</item>
+        <item> 9. Not only is it cheaper than anything in the beauty aisle, honey softens and moisturizes dry skin, and can be applied directly to problem areas.</item>
+        <item> 10.Having pomegranate’s juice daily is good for heart and useful for people suffering from low Blood Pressure (Hypotension)    </item>
+        <item> 11.Strengthening your abdominal muscles through muscle-lengthening exercises like Pilates can dramatically improve lower back pain.</item>
+        <item> 12. Simply wet your hair and then rub baking soda into your scalp, and rinse. This can reduce the overactive fungi that can cause dandruff.</item>
+
+
+    </string-array>
+
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I(Moderately Obese)</string>
+    <string name="obese_class_ii">Obese Class II(Severely Obese)</string>
+    <string name="obese_class_iii">Obese Class III(Very Severely Obese)</string>
+
+
+</resources>

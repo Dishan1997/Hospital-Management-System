@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ar.care_zone">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Category" />
+        <activity android:name=".Cdiseases" />
+        <activity android:name=".Signin" />
+        <activity android:name=".Web_info.Allergy" />
+        <activity android:name=".Web_info.Asthma" />
+        <activity android:name=".Web_info.BloodPressure" />
+        <activity android:name=".Web_info.Coldnflu" />
+        <activity android:name=".Web_info.Diabetes" />
+        <activity android:name=".Web_info.Eye" />
+        <activity android:name=".Web_info.Heart" />
+        <activity android:name=".Web_info.Neurology" />
+        <activity android:name=".Web_info.Skin" />
+        <activity android:name=".Web_info.Gastric" />
+        <activity android:name=".Htips" />
+        <activity android:name=".BMI" />
+        <activity android:name=".CalculateBMI" />
+        <activity android:name=".Hremedy" />
+        <activity android:name=".Signup"></activity>
+    </application>
+
+</manifest>
